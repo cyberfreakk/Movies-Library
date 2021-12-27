@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AuthUserAPI",
+    "\\AuthUserAPI\\Controllers",
+    "\\AuthUserAPI\\Models",
+    "\\AuthUserAPI\\Repository",
+    "\\AuthUserAPI\\Services"
+  ],
+  "SelectedNode": "\\MoviesAuthAPI.sln",
+  "PreviewInSolutionExplorer": false
+}
